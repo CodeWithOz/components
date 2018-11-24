@@ -1,3 +1,9 @@
+# React Components Lesson
+This was a quick project on learning how to use components
+in React.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
