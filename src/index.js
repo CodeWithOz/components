@@ -9,8 +9,8 @@ const App = () => {
     <div className="ui container comments">
       <ApprovalCard>
         <CommentDetail
-        author="Jane" timeAgo="Today at 4:45PM"
-        commentText="Awesome!" avatar={faker.image.avatar()}
+          author="Jane" timeAgo="Today at 4:45PM"
+          commentText="Awesome!" avatar={faker.image.avatar()}
         />
       </ApprovalCard>
 
