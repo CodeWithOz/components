@@ -1,6 +1,8 @@
 # React Components Lesson
-This was a quick project on learning how to use components
-in React.
+This was a quick project on learning how to use functional components
+in React. The project is part of Udemy's
+[Modern React with Redux](https://www.udemy.com/react-redux/learn/v4/content)
+course taught by Stephen Grider.
 
 ---
 
